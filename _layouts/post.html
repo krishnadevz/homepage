@@ -3,9 +3,10 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
+<span class="post-date">{{ page.date | date: "%A %B %-d, %Y" }}</span>
 
 {{ content }}
-  
+
 <hr>
 
 {% if page.previous.url %}
