@@ -1,0 +1,9 @@
+baseurl: ""
+email: brian@brianyu.me
+excerpt_separator: <!--more-->
+markdown: kramdown
+permalink: /posts/:year/:month/:day/:title
+plugins:
+  - jekyll-feed
+title: Brian Yu
+url: "https://brianyu.me"

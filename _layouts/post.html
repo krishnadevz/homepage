@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{{ content }}
+  
+<hr>
+
+{% if page.previous.url %}
+  <a href="{{ page.previous.url }}" class="pure-button">Previous Post</a>
+{% endif %}
+{% if page.next.url %}
+  <a href="{{ page.next.url }}" class="pure-button">Next Post</a>
+{% endif %}

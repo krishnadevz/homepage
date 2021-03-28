@@ -1,0 +1,19 @@
+- name: Spanning Tree
+  url: https://www.youtube.com/channel/UCDzVUXiTr3hClI-zzCWbYzg
+  description: Spanning Tree is a YouTube channel where I post videos on topics in computer science and mathematics.
+- name: Jeopardy Player
+  url: https://jeopardy.brianyu.me/
+  description: Jeopardy Player is a Jeopardy gameplay application that allows users to host custom Jeopardy games.
+  src: https://github.com/brianyu28/jeopardy
+- name: Tenacity
+  url: https://tenacity.brianyu.me/
+  description: Tenacity is a work-in-progress game to help students practice principles of computational thinking.
+  src: https://github.com/brianyu28/tenacity
+- name: Authorship
+  url: https://github.com/brianyu28/authorship
+  description: My undergraduate thesis research focused on authorship attribution problems, using a Hidden Markov Model approach to determining authorship of anonymous documents.
+  src: https://github.com/brianyu28/authorship
+- name: Dispatch
+  url: https://github.com/brianyu28/dispatch
+  description: Dispatch is a command-line mail merge tool for sending custom bulk emails to a list of recipients.
+  src: https://github.com/brianyu28/dispatch
