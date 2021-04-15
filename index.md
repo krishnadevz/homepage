@@ -19,7 +19,11 @@ When I'm not working, I run [Spanning Tree](https://spanningtree.me/), a collect
 
 <script src="https://apis.google.com/js/platform.js"></script>
 <div class="g-ytsubscribe" data-channelid="UCDzVUXiTr3hClI-zzCWbYzg" data-layout="default" data-count="default"></div>
+{% include youtube.html title="Dominos" url="https://www.youtube.com/embed/w6E7aQnA4Ws" %}
+
+<!--
 <div class="embed"><iframe src="https://www.youtube.com/embed/videoseries?list=PLZErML25eQ-NK9uR6Jw-NKrA_PlsB78b_" frameborder="0" allowfullscreen></iframe></div>
+-->
 
 [Sign up](https://spanningtree.substack.com) to receive email updates whenever a new video is published.
 
