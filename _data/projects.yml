@@ -7,8 +7,12 @@
   src: https://github.com/brianyu28/jeopardy
 - name: Tenacity
   url: https://tenacity.brianyu.me/
-  description: Tenacity is a work-in-progress game to help students practice principles of computational thinking.
+  description: Tenacity is a game to help students practice principles of computational thinking.
   src: https://github.com/brianyu28/tenacity
+- name: Countdowns
+  url: https://countdowns.brianyu.me/
+  description: Countdowns is a web app for creating simple countdown timers to events.
+  src: https://github.com/brianyu28/countdowns
 - name: Authorship
   url: https://github.com/brianyu28/authorship
   description: My undergraduate thesis research focused on authorship attribution problems, using a Hidden Markov Model approach to determining authorship of anonymous documents.
