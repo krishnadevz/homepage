@@ -1,6 +1,0 @@
-#header {
-    display: none;
-}
-#header:after {
-    content: 'This is CS50';
-}
