@@ -19,7 +19,7 @@ Since then, I've continued to create videos on topics I find interesting.
 
 See more of my videos on [YouTube](https://www.youtube.com/spanningtree).
 
-# CS50
+# Harvard
 
 My course on artificial intelligence with Python at Harvard Extension School and [edX](http://cs50.edx.org/ai), produced by [CS50](https://cs50.harvard.edu/ai/2020/).
 

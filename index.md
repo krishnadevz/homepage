@@ -4,13 +4,15 @@ layout: default
 
 # Hello!
 
-I'm Brian, a Senior Preceptor at Harvard's [Division of Continuing Education](https://www.dce.harvard.edu).
-I currently teach [Introduction to Artificial Intelligence with Python](http://cs50.edx.org/ai) and [Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript), offered through edX, Harvard Extension School and Harvard Summer School.
-I work with the team at [CS50](https://cs50.harvard.edu/), Harvard's introductory course in computer science, where I focus on teaching, curricular development, outreach, and software tools.
-
+I'm Brian, a Software Engineer at [Automattic](https://automattic.com).
 I graduated from Harvard College in 2019 with a degree in computer science and linguistics
 and from Harvard Graduate School of Education in 2021 with a master's degree in technology, innovation, and education.
-I have previously worked with a number of other computer science classes, including CS51, Harvard's course on abstraction and design in computing and CS124, Harvard's introduction to algorithms. I've worked previously at [Palantir](https://www.palantir.com), [The Harvard Crimson](https://www.thecrimson.com), [3P Speech](https://www.3pspeech.com), and the [National Speech and Debate Association](https://www.speechanddebate.org).
+
+Before joining Automattic, I worked at Harvard as a Senior Preceptor in computer science,
+where I created courses focusing on [artificial intelligence](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+and [web programming](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript),
+and where I was a course head for [CS50](https://cs50.harvard.edu/), Harvard's introductory course in computer science.
+I've also worked previously at [Palantir](https://www.palantir.com) and the [National Speech and Debate Association](https://www.speechanddebate.org).
 
 Contact me at <brian@brianyu.me>.
 
