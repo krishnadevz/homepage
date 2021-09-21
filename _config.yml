@@ -6,4 +6,4 @@ permalink: /posts/:year/:month/:day/:title
 plugins:
   - jekyll-feed
 title: Brian Yu
-url: "https://brianyu.me"
+url: "https://old.brianyu.me"
