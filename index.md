@@ -16,6 +16,9 @@ I've also worked previously at [Palantir](https://www.palantir.com) and the [Nat
 
 Contact me at <brian@brianyu.me>.
 
+<div class="embed"><iframe src="https://www.youtube.com/embed/videoseries?list=PLZErML25eQ-NK9uR6Jw-NKrA_PlsB78b_" frameborder="0" allowfullscreen></iframe></div>
+
+<!--
 ## Spanning Tree
 
 When I'm not working, I run [Spanning Tree](https://spanningtree.me/), a collection of animated videos on topics in computer science and mathematics on [YouTube](https://www.youtube.com/spanningtree).
@@ -34,3 +37,4 @@ When I'm not working, I run [Spanning Tree](https://spanningtree.me/), a collect
 {% endfor %}
 
 <a class="pure-button" href="/posts">View all posts</a>
+-->
