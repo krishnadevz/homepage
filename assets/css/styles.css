@@ -46,6 +46,7 @@ a {
 a:hover {
     color: #2571db;
 }
+
 h1 {
     font-size: 28px;
 }
@@ -73,4 +74,32 @@ h1 {
 
 .post-date {
     color: grey;
+}
+
+.project {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.project img {
+    width: 100px;
+    padding-right: 10px;
+    border-radius: 30%;
+}
+
+.project .project-title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.project p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.project-links > a:not(:last-child):after {
+    content: ' · ';
 }

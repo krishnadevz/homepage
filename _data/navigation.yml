@@ -2,9 +2,5 @@
   link: /
 - name: Videos
   link: /videos
-- name: Posts
-  link: /posts
-- name: Projects
-  link: /projects
 - name: GitHub
   link: https://github.com/brianyu28

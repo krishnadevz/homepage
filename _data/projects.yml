@@ -1,23 +1,48 @@
-- name: Spanning Tree
-  url: https://www.youtube.com/channel/UCDzVUXiTr3hClI-zzCWbYzg
-  description: Spanning Tree is a YouTube channel where I post videos on topics in computer science and mathematics.
-- name: Jeopardy Player
-  url: https://jeopardy.brianyu.me/
-  description: Jeopardy Player is a Jeopardy gameplay application that allows users to host custom Jeopardy games.
-  src: https://github.com/brianyu28/jeopardy
-- name: Tenacity
+- title: Spanning Tree
+  img: spanning-tree.png
+  description: Spanning Tree is a collection of educational videos I've written and animated on topics in computer science and mathematics.
+  url: https://youtube.com/spanningtree/
+  category: project
+  links:
+    - name: Computer of Dominos
+      url: https://www.youtube.com/watch?v=w6E7aQnA4Ws
+    - name: Dijkstra's Algorithm
+      url: https://www.youtube.com/watch?v=EFg3u_E6eHU
+    - name: Launching a Mars Mission
+      url: https://www.youtube.com/watch?v=yAj_JhJoNDo
+
+- title: Classroometrics
+  img: classroometrics.png
+  description: Classroometrics is a live classroom feedback tool. Teachers can get anonymous feedback from students in the form of reactions and questions.
+  url: https://classroometrics.com/
+  category: project
+  links:
+    - name: GitHub
+      url: https://github.com/brianyu28/classroometrics
+
+- title: Tenacity
+  img: tenacity.png
+  description: Tenacity is an interactive game designed to help students practice principles of programming and computational thinking. No programming experience required.
   url: https://tenacity.brianyu.me/
-  description: Tenacity is a game to help students practice principles of computational thinking.
-  src: https://github.com/brianyu28/tenacity
-- name: Countdowns
-  url: https://countdowns.brianyu.me/
-  description: Countdowns is a web app for creating simple countdown timers to events.
-  src: https://github.com/brianyu28/countdowns
-- name: Authorship
-  url: https://github.com/brianyu28/authorship
-  description: My undergraduate thesis research focused on authorship attribution problems, using a Hidden Markov Model approach to determining authorship of anonymous documents.
-  src: https://github.com/brianyu28/authorship
-- name: Dispatch
-  url: https://github.com/brianyu28/dispatch
-  description: Dispatch is a command-line mail merge tool for sending custom bulk emails to a list of recipients.
-  src: https://github.com/brianyu28/dispatch
+  category: project
+  links:
+    - name: GitHub
+      url: https://github.com/brianyu28/tenacity
+
+- title: Jeopardy Player
+  img: jeopardy.png
+  description: Jeopardy Player is a web application for playing custom games of Jeopardy. Import your clues and Jeopardy Player will present your game while keeping track of scores.
+  url: https://jeopardy.brianyu.me/
+  category: project
+  links:
+    - name: GitHub
+      url: https://github.com/brianyu28/jeopardy
+
+- title: Holyoke
+  img: holyoke.png
+  description: Holyoke is a macOS, iPadOS, and iOS application for viewing, editing, and analyzing chess games.
+  url: https://github.com/brianyu28/holyoke
+  category: project
+  links:
+    - name: GitHub
+      url: https://github.com/brianyu28/holyoke
