@@ -5,8 +5,7 @@ center: true
 
 # Spanning Tree
 
-In Fall 2019, I took [Education T550](https://twitter.com/tfivefifty) with [Karen Brennan](https://www.gse.harvard.edu/faculty/karen-brennan) at Harvard's Graduate School of Education and worked on a project called [Spanning Tree](https://spanningtree.me/) designing animated visual explanations of topics in computer science.
-Since then, I've continued to create videos on topics I find interesting.
+An educational animated series on topics in computer science. Feel free to email me at <brian@spanningtree.me> with future topic suggestions.
 
 <script src="https://apis.google.com/js/platform.js"></script>
 <div class="g-ytsubscribe" data-channelid="UCDzVUXiTr3hClI-zzCWbYzg" data-layout="full" data-count="default"></div>
@@ -28,8 +27,3 @@ My course on artificial intelligence with Python at Harvard Extension School and
 My course on web programming with Python and JavaScript at Harvard Extension School and [edX](http://cs50.edx.org/web), produced by [CS50](https://cs50.harvard.edu/web/2020).
 
 {% include youtube.html title="Web Programming" url="https://www.youtube.com/embed/zFZrkCIc2Oc?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu" %}
-
-My seminar introducing Git and GitHub for CS50.
-
-{% include youtube.html title="Git and GitHub" url="https://www.youtube.com/embed/MJUJ4wbFm_A" %}
-
